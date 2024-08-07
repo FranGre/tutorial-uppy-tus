@@ -37,7 +37,7 @@ dark:bg-neutral-900 dark:text-white/50">
         })
 
         uppy.use(Tus, {
-            endpoint: 'https://tusd.tusdemo.net/files'
+            endpoint: '/upload/image'
         })
     </script>
 </body>
